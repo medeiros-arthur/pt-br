@@ -1,6 +1,6 @@
 # COORDENADOR DE PRODUÇÃO E COORDENADOR DE PCM
 
-#### Materials Science | Injection Moulding | Packaging | Data Analysis
+#### Materials Science | Packaging | Data Analysis | Statistics
 
 ## Experiência Profissional
 
@@ -19,3 +19,6 @@
 - Apropriação e acompanhamento de Ordens de Serviço de manutenção preventiva para a operação;
 - Desenvolvimento de planejamento semanal de higienização de linhas produtivas;
 - Curso de extensão do sistema de gestão da manutenção SGServ.
+
+  **`Tecnologias aplicadas:`**
+  ``
