@@ -21,4 +21,19 @@
 - Curso de extensão do sistema de gestão da manutenção <em1>SGServ</em1>.
 
   **`Tecnologias aplicadas:`** `Python, RPA, Power Bi, Power Query, SAP tables, SAP Query Builder `
+
+#### Setembro/2022 – Fevereiro/2023
+##### Coordenador de PCM • Planejamento e Controle da Manutenção • Bebidas Comary
+
+**Atividades desenvolvidas:**
+
+- Liderança no projeto de reestabelecimento do processo de clarificação de açúcar, onde conseguimos retomar a nominal da máquina e mais que dobrar a capacidade produtiva;
+- Participei do projeto para fazer a troca do gás carbônico para o ar comprimido para pressurização de máquinas, gerando uma grande economia;
+- Desenvolvimento de peças de reposição;
+- Planejamento de paradas de máquina;
+- Treinamentos operacionais para a equipe juntamente dos fabricantes;
+- Assistência ao setor de controle de qualidade para sanar problemas produtivos, principalmente relacionados com as embalagens PET
+
+  **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
+
   ``
