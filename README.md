@@ -18,7 +18,7 @@
 - Participei ativamente da certificação da empresa na norma de segurança alimentar, FSSC-22000;
 - Apropriação e acompanhamento de Ordens de Serviço de manutenção preventiva para a operação;
 - Desenvolvimento de planejamento semanal de higienização de linhas produtivas;
-- Curso de extensão do sistema de gestão da manutenção SGServ.
+- Curso de extensão do sistema de gestão da manutenção <em1>SGServ</em1>.
 
   **`Tecnologias aplicadas:`**
   ``
