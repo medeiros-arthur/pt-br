@@ -20,5 +20,5 @@
 - Desenvolvimento de planejamento semanal de higienização de linhas produtivas;
 - Curso de extensão do sistema de gestão da manutenção <em1>SGServ</em1>.
 
-  **`Tecnologias aplicadas:`**
+  **`Tecnologias aplicadas:`** `Python, RPA, Power Bi, Power Query, SAP tables, SAP Query Builder `
   ``
