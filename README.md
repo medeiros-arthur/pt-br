@@ -9,7 +9,10 @@
 
 **Atividades desenvolvidas:**
 
+- Desenvolvimento de automações utilizando python;
 - Desenvolvimento de treinamentos operacionais e procedimentos de produção;
+- Criação de dashboard para gerenciamento dos indicadores industrias de toda a planta;
+- Desenvolvimento de sistema de automação para extração de dados do SAP e validação de carga para expedição do produto acabado;
 - Apresentação semanal de indicadores de produção no diálogo semanal de segurança (OEE, perdas, principais paradas, refugo, planejamento comercial etc);
 - Estudo de anomalia, buscando referências técnicas e montando plano de ação;
 - Utilização de estatística para investigar desvio de fornecedores;
