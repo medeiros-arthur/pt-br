@@ -1,6 +1,6 @@
 # COORDENADOR DE PRODUÇÃO E COORDENADOR DE PCM
 
-#### <em1>Materials Science | Packaging | Data Analysis | Statistics</em1>
+#### <em1>Materials Science | Maintenance | Packaging | Data Analysis</em1>
 
 ## Experiência profissional
 
