@@ -82,7 +82,7 @@ termo-oxidativa do PET;
 
  **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
 
- ## Experiência Profissional
+ ## Formação acadêmica
 
 <em1>UFRRJ – Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ</em1>
 **Engenharia de Materiais** – Bacharelado – concluí todo o conteúdo programático do curso, porém ainda não obtive o certificado.
@@ -90,7 +90,7 @@ termo-oxidativa do PET;
 <em1>IFRJ – Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro, Duque de Caxias, RJ</em1>
 **Técnico em Polímeros** – Integral – concluí todo o conteúdo programático do curso, porém não obtive o certificado.
 
-<em1>Engeteles – Engenharia da Manutenção/em1>
+<em1>Engeteles – Engenharia da Manutenção</em1>
 **Curso de PCM** – Planejamento e Controle da Manutenção.
 
 <em1>UFRJ – Universidade Federal do Rio de Janeiro</em1>
