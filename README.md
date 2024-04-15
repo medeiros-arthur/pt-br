@@ -1,8 +1,8 @@
 # COORDENADOR DE PRODUÇÃO E COORDENADOR DE PCM
 
-#### Materials Science | Packaging | Data Analysis | Statistics
+#### <em1>Materials Science | Packaging | Data Analysis | Statistics</em1>
 
-## Experiência Profissional
+## Experiência profissional
 
 #### Abril/2023 - Atual:
 ##### Supervisor de Produção | Sopro e Injeção | Riopet Embalagens LTDA
@@ -82,7 +82,7 @@ termo-oxidativa do PET;
 
  **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
 
- ## Formação acadêmica
+## Formação acadêmica
 
 <em1>UFRRJ – Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ</em1>
 **Engenharia de Materiais** – Bacharelado – concluí todo o conteúdo programático do curso, porém ainda não obtive o certificado.
@@ -96,7 +96,7 @@ termo-oxidativa do PET;
 <em1>UFRJ – Universidade Federal do Rio de Janeiro</em1>
 **Curso de Elastômeros 1** – Curso de extensão do Instituto de Macromoléculas Professora Heloísa Mano - UFRJ.
 
-## Informações Complementares
+## Informações complementares
 
 - Curso extensivo de Power Bi;
 - Estatística avançada com Minitab;
