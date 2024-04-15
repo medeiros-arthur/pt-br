@@ -12,4 +12,13 @@ em1 {
 //             width: 200px; /* Adjust this width to your desired size */
 //             float: left;
 // }
-        
+
+
+@media screen and (max-width: 800px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
