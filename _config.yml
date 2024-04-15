@@ -3,6 +3,9 @@ logo: /assets/headshot_circle.jpeg
 email: arthur.a.medeiros@gmail.com
 blank_title: true
 favicon: true
+
+# SITE PARA PROCURAR ÍCONES -> https://www.svgviewer.dev/
+
 description: ""
 show_downloads: false
 #theme: jekyll-theme-minimal
