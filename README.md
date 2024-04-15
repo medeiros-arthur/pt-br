@@ -36,4 +36,88 @@
 
   **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
 
+#### Janeiro/2022 – Agosto/2022
+##### Supervisor Industrial • Setor de Envase de bebidas • Grupo Pakera
+
+**Atividades desenvolvidas:**
+
+- Responsável pela equipe da produção (115 funcionários);
+- Programação, controle e acompanhamento das linhas de produção;
+- Implementação do PCM na planta industrial (criação do banco de dados para os registros e análises de manutenção, criação das fichas técnicas dos equipamentos, Inspeção de rota, tagueamento de máquinas e QR code; análise dos indicadores de manutenção, cronograma de 52 semanas, etc);
+- Utilização de metodologia de gestão no chão de fábrica (criação do Relatório de Análise de Anomalias e plano de ação; Diagrama de Paretto para priorização; Análise do O.E.E. dos
+equipamentos críticos da planta; Participação em projeto de melhoria para aumentar a capacidade produtiva de uma linha de produção; Ferramentas da qualidade; Ishikawa, 5W2H,
+Matriz G.U.T., criação de procedimento para start da produção);
+- Assessoria e elaboração de relatórios técnicos para a gerência (Cartas de controle; C.E.P.; Relatório de pendências de solicitações de compras; Apresentações gerenciais, Relatório B.I.,
+etc);
+- Elaboração de fluxogramas de processos e quadros de gestão à vista;
+- Treinamento acerca da padronização de processos;
+- Criação de apostila de processamento para o sopro do PET.
+
+  **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
+
+#### Novembro/2020 – Janeiro/2022
+##### Supervisor de Manutenção • Setor de Injeção • Grupo Pakera
+
+**Atividades desenvolvidas:**
+
+- Responsável pela equipe do setor de injeção (14 funcionários);
+- Programação e acompanhamento da produção;
+- Implementação do PCM (Planejamento e Controle de Manutenção) no setor (elaboração do plano de manutenção preventiva, implementação da análise dos indicadores de manutenção,
+tagueamento de máquinas, cadastro de ativos);
+- Elaboração de relatórios técnicos com os índices de manutenção (MTBF e MTTR), análises de refugo e estudos estatísticos;
+- Controle da escala de operação, recebimento de matérias primas, orçamentos de peças de reposição, etc.
+
+  **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
+
+#### Novembro/2019 – Novembro/2020
+##### Estagiário • Setor de Injeção • Grupo Pakera
+
+**Atividades desenvolvidas:**
+
+- Conscientização da empresa acerca do Acetaldeído, contaminante derivado da degradação
+termo-oxidativa do PET;
+- Avaliação na qualidade das preformas;
+- Atuação, junto das linhas de produção do envase de bebidas, para determinar cavidades com defeitos de fabricação;
+- Registro e relatórios da produção total e refugo mensais.
+
+ **`Tecnologias aplicadas:`** `XXXXXXXXXXXXXXXXx`
+
+ ## Experiência Profissional
+
+<em1>UFRRJ – Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ</em1>
+**Engenharia de Materiais** – Bacharelado – concluí todo o conteúdo programático do curso, porém ainda não obtive o certificado.
+
+<em1>IFRJ – Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro, Duque de Caxias, RJ</em1>
+**Técnico em Polímeros** – Integral – concluí todo o conteúdo programático do curso, porém não obtive o certificado.
+
+<em1>Engeteles – Engenharia da Manutenção/em1>
+**Curso de PCM** – Planejamento e Controle da Manutenção.
+
+<em1>UFRJ – Universidade Federal do Rio de Janeiro</em1>
+**Curso de Elastômeros 1** – Curso de extensão do Instituto de Macromoléculas Professora Heloísa Mano - UFRJ.
+
+## Informações Complementares
+
+- Curso extensivo de Power Bi;
+- Estatística avançada com Minitab;
+- Excel avançado;
+- Inglês avançado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ``
